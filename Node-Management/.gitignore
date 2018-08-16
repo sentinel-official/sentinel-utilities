@@ -1,0 +1,5 @@
+master/
+**/nodes/
+**/ips.txt
+**/keys.txt
+**/passwords.txt
